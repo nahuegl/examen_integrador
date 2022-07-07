@@ -2,3 +2,4 @@
 
 Carlos Nahuel Gonzalez Lopez
 Leandro Soria
+Santiago Quintero Guarin
